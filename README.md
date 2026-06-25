@@ -39,7 +39,7 @@
 
 ## Управленческий дашборд
 
-![Управленческий дашборд](screenshots/00_executive_dashboard.svg)
+![Управленческий дашборд](screenshots/00_executive_dashboard.png)
 
 Дашборд содержит:
 
@@ -172,15 +172,15 @@ jupyter notebook sales_feedback_analysis.ipynb
 
 ## Ключевые графики
 
-![Управленческий дашборд](screenshots/00_executive_dashboard.svg)
+![Управленческий дашборд](screenshots/00_executive_dashboard.png)
 
-![Выручка по месяцам](screenshots/01_revenue_by_month.svg)
+![Выручка по месяцам](screenshots/01_revenue_by_month.png)
 
-![Средняя оценка по продуктам](screenshots/02_rating_by_product.svg)
+![Средняя оценка по продуктам](screenshots/02_rating_by_product.png)
 
-![Причины обратной связи](screenshots/03_feedback_reasons.svg)
+![Причины обратной связи](screenshots/03_feedback_reasons.png)
 
-![Матрица приоритетов](screenshots/04_priority_matrix.svg)
+![Матрица приоритетов](screenshots/04_priority_matrix.png)
 
 ## Навыки
 
